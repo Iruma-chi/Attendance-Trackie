@@ -27,7 +27,9 @@ Personal development project. Features and compatibility may change over time.
 
 ⚠️ Disclaimer
 
-Attendance Trackie is an independent project and is not affiliated with any college, university, or entertainment franchise. Custom scores may differ from official attendance records. Third-party assets remain subject to their respective licenses.
+Attendance Trackie is an independent project and is not affiliated with any college, university, or entertainment franchise. Custom scores may differ from official attendance records. 
+
+Built on HTML
 
 ❤️ Developer Note
 
